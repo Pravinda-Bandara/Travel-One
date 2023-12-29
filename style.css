@@ -1,0 +1,22 @@
+*{
+    box-sizing: border-box;
+}
+:root{
+    font-family: 'Open Sans', sans-serif;
+    --text-color:#fff;
+    --bg-color:#000;
+    --main-color:#ffa343;
+    --h1-font:6rem;
+    --h2-font:3rem;
+    --p-font:1rem;
+    
+}
+
+body{
+    color: var(--text-color);
+    background: var(--bg-color);
+}
+
+a{
+    text-decoration: none;
+}
