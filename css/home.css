@@ -446,6 +446,9 @@ gap: 1rem;
         .newsletter-content{
             grid-template-columns: 1fr;
         }
+        .culture-img{
+            text-align: center;
+        }
     }
 
     @media all and (max-width: 600px){
